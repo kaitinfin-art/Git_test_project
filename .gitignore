@@ -1,0 +1,9 @@
+# ignores all files with the following extensions:
+*.png
+*.txt
+*.doc
+*.docx
+*.jpg
+
+# Ignoring the whole folder and all its contents
+/screen_captures
