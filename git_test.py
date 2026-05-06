@@ -4,3 +4,5 @@
 print ("I am very familiar with Git")
 print (Íadsa) 
 
+print ("Hello")
+print (đasa)
