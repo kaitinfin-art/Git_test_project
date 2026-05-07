@@ -5,4 +5,4 @@ print ("I am very familiar with Git")
 print (Íadsa) 
 
 print ("Hello")
-print (đasa)
+print("Final push and pull test completed!")
