@@ -1,2 +1,3 @@
 print ("We made some changes")
-print("Main branch changed this")
+print("Branch print-text changed this")
+print ("Hello from Main")
